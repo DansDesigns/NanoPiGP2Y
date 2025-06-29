@@ -1,9 +1,5 @@
-Dust Sensor in MicroPython
----
 
-+ Sharp GP2Y1014AU0F optical dust sensor
-+ WEMOS D1 Mini (ESP8266)
-+ MicroPython
+Sharp GP2Y1014AU0F optical dust sensor
+Python code, reverse engineered from micropython (see OG fork)
 
-Credits:
-+ [TM74HC595.py](https://github.com/Sakartu/TM74HC595)
+tested on NanoPi Neo
